@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/faf2efa1-3762-426a-88f8-62ce16a52373)<H3>Name</H3>
+<H3>Name</H3>
+Shaik Sameer Basha
 <H3>Register no.</H3>
+212222240093
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
